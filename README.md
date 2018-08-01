@@ -17,6 +17,8 @@
 
 8、[Js数组扁平化 & 数组去重 &数组最值](https://github.com/jingegebuguai/JavaScript-/blob/master/Js%E6%95%B0%E7%BB%84%E6%89%81%E5%B9%B3%E5%8C%96%20%26%20%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%20%26%E6%95%B0%E7%BB%84%E6%9C%80%E5%80%BC.md)
 
+9、[ES6常见面试题总结](https://github.com/jingegebuguai/JavaScript/issues/1)
+
 ## css模块文章
 1、[CSS知识点总结](https://github.com/jingegebuguai/JavaScript-/blob/master/CSS%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
 

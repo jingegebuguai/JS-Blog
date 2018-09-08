@@ -3,7 +3,7 @@
 ## JS模块文章
 1、[Js&Node.js事件循环](https://github.com/jingegebuguai/JavaScript/issues/3)
 
-2、[Js变量对象，执行上下文，作用域链基础](https://github.com/jingegebuguai/JavaScript-/blob/master/Js%E5%8F%98%E9%87%8F%E5%AF%B9%E8%B1%A1%EF%BC%8C%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E5%9F%BA%E7%A1%80.md)
+2、[Js变量对象，执行上下文，作用域链基础](https://github.com/jingegebuguai/JavaScript/issues/4)
 
 3、[Vue重要知识点汇总](https://github.com/jingegebuguai/JavaScript-/blob/master/Vue%E9%87%8D%E8%A6%81%E9%87%8D%E8%A7%86%E7%82%B9%E6%B1%87%E6%80%BB.md)
 

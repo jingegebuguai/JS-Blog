@@ -1,7 +1,7 @@
 # 进哥哥的博客
 ## JS相关知识点
 ## JS模块文章
-1、[Js&Node.js事件循环](https://github.com/jingegebuguai/JavaScript-/blob/master/Js%26Node%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF.md)
+1、[Js&Node.js事件循环](https://github.com/jingegebuguai/JavaScript/issues/3)
 
 2、[Js变量对象，执行上下文，作用域链基础](https://github.com/jingegebuguai/JavaScript-/blob/master/Js%E5%8F%98%E9%87%8F%E5%AF%B9%E8%B1%A1%EF%BC%8C%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E5%9F%BA%E7%A1%80.md)
 

@@ -19,6 +19,9 @@
 
 9、[ES6常见面试题总结](https://github.com/jingegebuguai/JavaScript/issues/1)
 
+10、[实现URL的深度解析 & 数组对象的扁平化处理](https://github.com/jingegebuguai/JavaScript/issues/2)
+
+
 ## css模块文章
 1、[CSS知识点总结](https://github.com/jingegebuguai/JavaScript-/blob/master/CSS%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
 

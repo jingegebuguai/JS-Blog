@@ -1,9 +1,8 @@
 ### 进哥哥的博客
 #### JS相关知识点
-##### JS模块文章
+#### JS模块文章
 ##### 1、[Js&Node.js事件循环](https://github.com/jingegebuguai/JavaScript/issues/3)
-
-2、[Js变量对象，执行上下文，作用域链基础](https://github.com/jingegebuguai/JavaScript/issues/4)
+##### 2、[Js变量对象，执行上下文，作用域链基础](https://github.com/jingegebuguai/JavaScript/issues/4)
 
 3、[Vue重要知识点汇总](https://github.com/jingegebuguai/JavaScript/issues/5)
 

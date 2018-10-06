@@ -22,4 +22,5 @@
 
 
 #### Continuation-passing Style编程
-
+1. [Continuation-passing Style编程（一）（JS版本） #13](https://github.com/jingegebuguai/JavaScript/issues/13)
+2. [Continuation-passing Style编程（二）（JS版本） #13](https://github.com/jingegebuguai/JavaScript/issues/14)

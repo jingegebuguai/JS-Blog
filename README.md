@@ -22,6 +22,8 @@
 1. [Continuation-passing Style编程（一）（JS版本）](https://github.com/jingegebuguai/JavaScript/issues/13)
 2. [Continuation-passing Style编程（二）（JS版本）](https://github.com/jingegebuguai/JavaScript/issues/14)
 
+#### Immutable模块文章
+1. [Immutable引入—js深浅拷贝问题](https://github.com/jingegebuguai/JavaScript/issues/15)
 
 #### underscore模块文章
 

@@ -24,6 +24,7 @@
 
 #### Immutable模块文章
 1. [Immutable引入—js深浅拷贝问题](https://github.com/jingegebuguai/JavaScript/issues/15)
+2. [Immutable API参考文档](https://github.com/jingegebuguai/JavaScript/issues/16)
 
 #### underscore模块文章
 

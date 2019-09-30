@@ -42,6 +42,7 @@
 4. [vue源码学习之directives指令分析](https://github.com/jingegebuguai/vue-underscore/issues/8)
 5. [vue源码学习之虚拟dom](https://github.com/jingegebuguai/vue-underscore/issues/9)
 6. [vue webpack项目多入口配置](https://github.com/jingegebuguai/JS-Blog/issues/19)
+7. [Vue typescript开发模式说明](https://github.com/jingegebuguai/JS-Blog/issues/20)
 
 #### react模块文章
 1. [React组件生命周期详述](https://github.com/jingegebuguai/vue-underscore/issues/10)
